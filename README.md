@@ -18,3 +18,5 @@ Online Shoes Purchase : User can either choose respective brands or the user can
 Adding/Withdrawing the Money into/from the User Wallet : The User can Add or Withdraw the money from His/Her Wallet.
 
 View User Profile : The User can see His/Her Name , Phone Number , Avaiable Balance in His/Her Wallet , Login Id . 
+
+*Only one User at a time is allowed!!
